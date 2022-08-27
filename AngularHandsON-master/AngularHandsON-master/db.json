@@ -1,0 +1,38 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "first_name": "Harshitha",
+      "last_name": "Gowda",
+      "email": "harshitha.gowda@gmail.com",
+      "phone": "9745677566"
+    },
+   
+    {
+      "first_name": "Latha",
+      "last_name": "V",
+      "email": "latha@gmail.com",
+      "phone": "8767655476",
+      "id": 5    },
+   
+  ],
+  "userLogins": [
+    {
+      "email": "harshitha.gowda@gmail.com",
+      "loginTime": "2022-08-12T10:47:44.041Z",
+      "id": 1
+    },
+   
+ 
+    {
+      "email": "aish@gmail.com",
+      "loginTime": "2022-08-14T09:51:24.029Z",
+      "id": 5
+    },
+    {
+      "email": "anjum@gmail.com",
+      "loginTime": "2022-08-18T15:11:49.833Z",
+      "id": 6
+    }
+  ]
+}
